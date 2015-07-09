@@ -1,0 +1,10 @@
+G:\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\bin\x86\Release\Content\grass.xnb
+G:\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\bin\x86\Release\Content\path.xnb
+G:\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\bin\x86\Release\Content\enemy.xnb
+G:\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\bin\x86\Release\Content\arrowtower.xnb
+G:\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\bin\x86\Release\TowerDefenseTryOut.exe
+G:\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\bin\x86\Release\TowerDefenseTryOut.pdb
+G:\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\obj\x86\Release\ResolveAssemblyReference.cache
+G:\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\obj\x86\Release\TowerDefenseTryOut.exe
+G:\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\obj\x86\Release\TowerDefenseTryOut.pdb

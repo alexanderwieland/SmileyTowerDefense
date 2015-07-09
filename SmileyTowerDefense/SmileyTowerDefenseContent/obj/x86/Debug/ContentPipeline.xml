@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Game\grass.png</Source>
+      <Name>Game\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\grass.xnb</Output>
+      <Time>2013-04-08T23:26:23.9598332+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\path.png</Source>
+      <Name>Game\path</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\path.xnb</Output>
+      <Time>2013-04-08T23:41:26.246441+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\enemy.png</Source>
+      <Name>Game\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy.xnb</Output>
+      <Time>2013-02-14T16:13:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\arrowtower_thumb2.png</Source>
+      <Name>Game\arrowtower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrowtower.xnb</Output>
+      <Time>2013-02-14T13:36:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\arrow button.png</Source>
+      <Name>Game\arrow button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow button.xnb</Output>
+      <Time>2013-02-14T13:37:39+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\arrow hover.png</Source>
+      <Name>Game\arrow hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow hover.xnb</Output>
+      <Time>2010-12-22T14:42:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\arrow pressed.png</Source>
+      <Name>Game\arrow pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow pressed.xnb</Output>
+      <Time>2010-12-17T18:04:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\bullet.png</Source>
+      <Name>Game\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\bullet.xnb</Output>
+      <Time>2013-02-14T13:51:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\health bar.png</Source>
+      <Name>Game\health bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\health bar.xnb</Output>
+      <Time>2011-04-06T17:46:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\toolbar.png</Source>
+      <Name>Game\toolbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\toolbar.xnb</Output>
+      <Time>2010-12-17T12:04:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\enemy00.png</Source>
+      <Name>Game\enemy00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy00.xnb</Output>
+      <Time>2013-02-14T16:19:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\enemy25.png</Source>
+      <Name>Game\enemy25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy25.xnb</Output>
+      <Time>2013-02-14T16:19:05+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\enemy50.png</Source>
+      <Name>Game\enemy50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy50.xnb</Output>
+      <Time>2013-02-14T16:18:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Ueberschrift.png</Source>
+      <Name>MainMenu\Ueberschrift</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\Ueberschrift.xnb</Output>
+      <Time>2013-03-29T14:48:59+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\EXButton.png</Source>
+      <Name>MainMenu\EXButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\EXButton.xnb</Output>
+      <Time>2013-03-29T12:09:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\HSButton.png</Source>
+      <Name>MainMenu\HSButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\HSButton.xnb</Output>
+      <Time>2013-03-29T12:09:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\MenuBG.jpg</Source>
+      <Name>MainMenu\MenuBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MenuBG.xnb</Output>
+      <Time>2013-03-29T16:20:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\MPButton.png</Source>
+      <Name>MainMenu\MPButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MPButton.xnb</Output>
+      <Time>2013-03-29T12:09:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\SPButton.png</Source>
+      <Name>MainMenu\SPButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\SPButton.xnb</Output>
+      <Time>2013-03-29T12:09:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game\SplitBalken.png</Source>
+      <Name>Game\SplitBalken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\SplitBalken.xnb</Output>
+      <Time>2013-04-04T14:32:23.6777706+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\HSBG.png</Source>
+      <Name>MainMenu\HSBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\HSBG.xnb</Output>
+      <Time>2013-03-29T16:24:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Back.png</Source>
+      <Name>MainMenu\Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\Back.xnb</Output>
+      <Time>2013-03-29T16:48:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2013-03-29T17:01:21.4278682+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial2.spritefont</Source>
+      <Name>Arial2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial2.xnb</Output>
+      <Time>2013-03-29T17:05:22.7492388+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefenseContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefenseContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-11T13:48:15.127812+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

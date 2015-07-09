@@ -1,0 +1,3 @@
+C:\Users\Simon\Documents\Schule\5AHITT\PPM\XNA-training\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOutContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOutContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Philo\Desktop\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOutContent\obj\x86\Debug\TowerDefenseTryOutContent.contentprojResolveAssemblyReference.cache

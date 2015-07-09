@@ -1,0 +1,533 @@
+C:\Users\Philo\Desktop\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\bin\x86\Debug\TowerDefenseTryOut.exe
+C:\Users\Philo\Desktop\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\bin\x86\Debug\TowerDefenseTryOut.pdb
+C:\Users\Philo\Desktop\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Desktop\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Philo\Desktop\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Philo\Desktop\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Philo\Desktop\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\obj\x86\Debug\TowerDefenseTryOut.exe
+C:\Users\Philo\Desktop\TowerDefenseTryOut\TowerDefenseTryOut\TowerDefenseTryOut\obj\x86\Debug\TowerDefenseTryOut.pdb
+C:\Users\Philo\Desktop\SmileyTowerDefense\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\TowerDefenseTryOut.exe
+C:\Users\Philo\Desktop\SmileyTowerDefense\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\TowerDefenseTryOut.pdb
+C:\Users\Philo\Desktop\SmileyTowerDefense\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Desktop\SmileyTowerDefense\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Philo\Desktop\SmileyTowerDefense\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Philo\Desktop\SmileyTowerDefense\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Philo\Desktop\SmileyTowerDefense\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\TowerDefenseTryOut.exe
+C:\Users\Philo\Desktop\SmileyTowerDefense\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\TowerDefenseTryOut.pdb
+C:\Users\Simon\Documents\Schule\5AHITT\PPM\Projekte\SmileyTowerDefense_31_01\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\TowerDefenseTryOut.exe
+C:\Users\Simon\Documents\Schule\5AHITT\PPM\Projekte\SmileyTowerDefense_31_01\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\TowerDefenseTryOut.pdb
+C:\Users\Simon\Documents\Schule\5AHITT\PPM\Projekte\SmileyTowerDefense_31_01\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Schule\5AHITT\PPM\Projekte\SmileyTowerDefense_31_01\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Simon\Documents\Schule\5AHITT\PPM\Projekte\SmileyTowerDefense_31_01\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Simon\Documents\Schule\5AHITT\PPM\Projekte\SmileyTowerDefense_31_01\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Simon\Documents\Schule\5AHITT\PPM\Projekte\SmileyTowerDefense_31_01\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Simon\Documents\Schule\5AHITT\PPM\Projekte\SmileyTowerDefense_31_01\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\TowerDefenseTryOut.exe
+C:\Users\Simon\Documents\Schule\5AHITT\PPM\Projekte\SmileyTowerDefense_31_01\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\TowerDefenseTryOut.pdb
+C:\Users\Simon\Documents\Schule\5AHITT\PPM\Projekte\SmileyTowerDefense_31_01\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Simon\Documents\Schule\5AHITT\PPM\Projekte\SmileyTowerDefense_31_01\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Simon\Documents\Schule\5AHITT\PPM\Projekte\SmileyTowerDefense_31_01\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Simon\Documents\Schule\5AHITT\PPM\Projekte\SmileyTowerDefense_31_01\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow button.xnb
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow hover.xnb
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow pressed.xnb
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.xnb
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\01_31_STD_WORKINGVERSION_with_ServerCs-XMLdoc\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow button.xnb
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow hover.xnb
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow pressed.xnb
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.xnb
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\0702\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow button.xnb
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow hover.xnb
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow pressed.xnb
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.xnb
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\1702\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow button.xnb
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow hover.xnb
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow pressed.xnb
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.xnb
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\1702_2\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow button.xnb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow hover.xnb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow pressed.xnb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.xnb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy00.xnb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy25.xnb
+C:\Users\Philo\Desktop\2002\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy50.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow button.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow hover.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow pressed.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy00.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy25.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy50.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\Test\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow button.xnb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow hover.xnb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow pressed.xnb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.xnb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy00.xnb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy25.xnb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy50.xnb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\Test - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow button.xnb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow hover.xnb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow pressed.xnb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.xnb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy00.xnb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy25.xnb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy50.xnb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Desktop\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.application
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\grass.xnb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\path.xnb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy.xnb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrowtower.xnb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow button.xnb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow hover.xnb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow pressed.xnb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\bullet.xnb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\health bar.xnb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.xnb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy00.xnb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy25.xnb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy50.xnb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe.manifest
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.application
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe.manifest
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.application
+E:\Persönliche Daten\Dropbox\HTL Kl. 5\Projekte und Projektmanagement\WithXNAdotNet\Ohne Server\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow button.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow hover.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow pressed.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy00.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy25.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy50.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Dropbox\STD\Projekte\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow button.xnb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow hover.xnb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow pressed.xnb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.xnb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy00.xnb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy25.xnb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy50.xnb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow button.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow hover.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow pressed.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy00.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy25.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy50.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2103\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\grass.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\path.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow button.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow hover.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\arrow pressed.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\health bar.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy00.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy25.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\enemy50.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.Form1.resources
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.HighscoreForm.resources
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csproj.GenerateResource.Cache
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2803\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MenuBG.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\EXButton.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\HSButton.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MPButton.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\SPButton.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\Ueberschrift.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MenuBG.jpg
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\HSBG.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\Back.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\grass.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\path.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrowtower.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow button.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow hover.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow pressed.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\bullet.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\health bar.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\toolbar.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy00.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy25.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy50.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\SplitBalken.xnb
+C:\Users\Philo\Documents\Visual Studio 2010\Projects\2903 - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial2.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\grass.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\path.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrowtower.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow button.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow hover.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow pressed.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\bullet.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\health bar.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\toolbar.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy00.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy25.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy50.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\Ueberschrift.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\EXButton.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\HSButton.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MenuBG.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MPButton.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\SPButton.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\SplitBalken.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\HSBG.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\Back.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial2.xnb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MenuBG.jpg
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Dropbox\STD\Projekte\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\grass.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\path.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrowtower.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow button.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow hover.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow pressed.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\bullet.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\health bar.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\toolbar.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy00.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy25.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy50.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\Ueberschrift.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\EXButton.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\HSButton.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MenuBG.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MPButton.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\SPButton.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\SplitBalken.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\HSBG.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\Back.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial2.xnb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MenuBG.jpg
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\2903_mit_extremen_Veränderungen\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\grass.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\path.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrowtower.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow button.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow hover.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow pressed.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\bullet.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\health bar.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\toolbar.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy00.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy25.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy50.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\Ueberschrift.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\EXButton.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\HSButton.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MenuBG.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MPButton.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\SPButton.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\SplitBalken.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\HSBG.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\Back.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial2.xnb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MenuBG.jpg
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\0704\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\toolbar.png
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.csprojResolveAssemblyReference.cache
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\grass.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\path.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrowtower.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow button.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow hover.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\arrow pressed.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\bullet.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\health bar.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\toolbar.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy00.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy25.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\enemy50.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\Ueberschrift.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\EXButton.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\HSButton.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MenuBG.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MPButton.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\SPButton.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Game\SplitBalken.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\HSBG.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\Back.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\Arial2.xnb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\Content\MainMenu\MenuBG.jpg
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe.manifest
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.application
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.exe
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\bin\x86\Debug\SmileyTowerDefense.pdb
+C:\Users\Philo\Desktop\SmileyTowerDefense - Kopie\SmileyTowerDefense\SmileyTowerDefense\obj\x86\Debug\SmileyTowerDefense.application
